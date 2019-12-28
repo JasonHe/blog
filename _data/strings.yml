@@ -10,31 +10,31 @@
 
 # Free version
 # ---------------------------------------------------------------------------------------
-home:                  Home
-pages:                 Pages
-posts:                 Posts
-about:                 About
-related_posts:         Related Posts
-other_projects:        Other Projects
-comments:              Comments
-jump_to:               Jump to
-navigation:            Navigation
-social:                Social
-links:                 Links
-pagination:            Pagination
+home:                  主页
+pages:                 页
+posts:                 文章
+about:                 关于
+related_posts:         相关文章
+other_projects:        其他项目
+comments:              评论
+jump_to:               跳转至
+navigation:            导航
+social:                社交媒体
+links:                 链接
+pagination:            页码
 newer:                 Newer
 older:                 Older
-back:                  Back
+back:                  返回
 permalink:             Permalink
 permalink_icon:        icon-link
-templates:             Templates (for web app)
+templates:             模板
 present:               present
 
-loading:               Loading…
-redirecting:           Redirecting…
+loading:               读取中…
+redirecting:           跳转中…
 
 continue_reading:      >
-  Continue reading <!--post_title-->
+  继续阅读 <!--post_title-->
 
 cookies_banner:
   text:                >
@@ -46,12 +46,14 @@ not_found:
   message:             |
     Sorry, we've misplaced that URL or it's pointing to something that doesn't exist.
     <!--home_link--> to try finding it again.
-  home_link:           Head back home
+    对不起，您所请求的页面不存在...
+  home_link:           回到主页
 
 error:
-  title:               Error
+  title:               错误
   message:             |
     Sorry, an error occurred while loading <!--link-->.
+    对不起，在读取 <!--link--> 时发生了错误。
 
 # Separators
 # ---------------------------------------------------------------------------------------
