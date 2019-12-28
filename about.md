@@ -21,6 +21,7 @@ image: /assets/icons/icon.png
 内容正在测试中
 {:.lead}
 
-![Screenshot](assets/icons/icon.png){:.lead srcset="/assets/img/blog/hydejack-8.png 1920w, /assets/img/blog/hydejack-8@0,5x.png 960w, /assets/img/blog/hydejack-8@0,25x.png 480w" data-width="1920" data-height="1080"}
+![Sydney](\assets\icons\icon.png)
+
 Sydney，Australia
 {:.figure}
