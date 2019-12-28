@@ -4,7 +4,7 @@
 layout: about
 
 # The title of the page.
-title: About
+title: 关于我
 
 # Write a short (~150 characters) description of each blog post.
 # This description is used to preview the page on search engines, social media, etc.
@@ -12,7 +12,7 @@ description: >
   一个有梦想的地产人
 
 # You can show the description on the page by deleting this line:
-hide_description: true
+hide_description: false
 
 # TODO
 image: /assets/icons/icon.png
