@@ -49,11 +49,11 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             精彩推文
+  - title:             Example
+    url:               /example/
+  - title:             Documentation
     url:               /docs/
-  - title:             说明文档
-    url:               /guides/
-  - title:             关于我
+  - title:             About
     url:               /about/
 
 # Add links to the footer.
