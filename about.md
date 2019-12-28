@@ -16,12 +16,13 @@ hide_description: true
 
 # TODO
 image: /assets/icons/icon.png
+
 ---
 
 内容正在测试中
 {:.lead}
 
-![Sydney](\assets\icons\icon.png)
+![Sydney](/assets/icons/icon.png)
 
 Sydney，Australia
 {:.figure}
